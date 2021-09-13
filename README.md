@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-### I'm Fernando Back-end developer from Mexico who is passionate about cloud systems and cibersecurity. 
+### I'm Fernando Beginner developer from Mexico who is passionate about cloud systems and cibersecurity. 
 I am currently working as a freelance web developer in a small team, creating everything from business management systems to mobile an web apps.
 
 You can look my portfolio <a href="https://github.com/gallardowolfcode">here</a>. 
