@@ -12,12 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-
-### I'm Fernando Beginner developer from Mexico who is passionate about cloud systems and cibersecurity. 
-I am currently working as a freelance web developer in a small team, creating everything from business management systems to mobile an web apps.
-
-You can look my portfolio <a href="https://github.com/gallardowolfcode">here</a>. 
+<p align="center">
+<img src ="assets/hk3.jpg">
+</p>
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=gallardowolfcode&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -28,7 +25,7 @@ You can look my portfolio <a href="https://github.com/gallardowolfcode">here</a>
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/FEARGALLARDO/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" />            </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/FEARGALLARDO/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gallardomtz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
