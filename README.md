@@ -59,6 +59,7 @@ You can look my portfolio <a href="https://github.com/gallardowolfcode">here</a>
 </tr>
 </table>
 <a href="https://github.com/gallardowolfcode">All about me</a>
+
 ## Skills
 
 ### Frameworks FrontEnd :package:
