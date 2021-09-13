@@ -20,9 +20,9 @@ I am currently working as a freelance web developer in a small team, creating ev
 You can look my portfolio <a href="https://github.com/gallardowolfcode">here</a>. 
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=gallardowolfcode&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gallardowolfcode&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=gallardowolfcode&theme=radical&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api?username=gallardowolfcode&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gallardowolfcode&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=gallardowolfcode&theme=gotham&hide_border=true&background=FFFFFF00">
   <br>
   <br>
 </p>
