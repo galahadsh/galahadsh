@@ -65,34 +65,27 @@ You can look my portfolio <a href="https://github.com/gallardowolfcode">here</a>
 ### Frameworks FrontEnd :package:
 
 | [<img src="assets/vue.png" title="vue" alt="vue" width="40">](https://vuejs.org/) | [<img src="assets/nuxt.png" title="vue" alt="vue" width="40">](https://nuxtjs.org/) |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
 
 ### Frameworks BackEnd :package:
 
-| [<img src="assets/django.png" title="django" alt="django" width="70">](https://www.djangoproject.com/) | [<img src="assets/djrest.png" title="drf" alt="drf" width="70">](https://www.django-rest-framework.org/) |
-| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| [<img src="assets/django.png" title="django" alt="django" width="70">](https://www.djangoproject.com/) | [<img src="assets/djrest.png" title="drf" alt="drf" width="70">](https://www.django-rest-framework.org/) | --------------------------------------------------------------------------- |
 
 
 ### Programming Languages :computer:
 
-| [<img src="assets/javascript.png" title="js" alt="js" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python.png" title="python" alt="python" width="50">](https://www.python.org/) | [<img src="assets/java.png" title="ts" alt="ts" width="30">](https://www.java.com/es/) | [<img src="assets/cpp.png" title="cpp" alt="cpp" width="40">](https://isocpp.org/) |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [<img src="assets/javascript.png" title="js" alt="js" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python.png" title="python" alt="python" width="50">](https://www.python.org/) | [<img src="assets/java.png" title="ts" alt="ts" width="30">](https://www.java.com/es/) | [<img src="assets/cpp.png" title="cpp" alt="cpp" width="40">](https://isocpp.org/) | -------------------------------------------------------------------------------------------------------------- |
 
 
 ### Databases :floppy_disk:
 
-| [<img src="assets/postgres.svg" title="postgres" alt="postgres" width="40">](https://www.postgresql.org/) | [<img src="assets/mysql.png" title="mysql" alt="mysql" width="60">](https://www.mysql.com/) |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-
+| [<img src="assets/postgres.svg" title="postgres" alt="postgres" width="40">](https://www.postgresql.org/) | [<img src="assets/mysql.png" title="mysql" alt="mysql" width="60">](https://www.mysql.com/) | --------------------------------------------------------------------------------------------------- |
 
 ### Tools & other technologies :hammer_and_wrench:
 
-| [<img src="assets/git.png" title="git" alt="git" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) | [<img src="assets/docker.png" title="docker" alt="docker" width="40">](https://www.docker.com/) |
-| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-
+| [<img src="assets/git.png" title="git" alt="git" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) | [<img src="assets/docker.png" title="docker" alt="docker" width="40">](https://www.docker.com/) | ---------------------------------------------------------------------------------------------- |
 
 ### Cloud :cloud:
 
 | [<img src="assets/aws.png" title="aws" alt="aws" width="50">](https://aws.amazon.com/) | [<img src="assets/heroku.jpg" title="do" alt="do" width="50">](https://www.heroku.com/) |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------- |
