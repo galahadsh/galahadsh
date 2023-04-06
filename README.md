@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <a href="https://wolfcodesquad.github.io/WolfCode_page/">:arrow_forward: See more</a>
   </td>
   <td>
-    <img src="https://github.com/organizations/wolfcodesquad/settings/profile" alt="Banner" width="200px">
+    <img src="https://github.com/organizations/wolfcodesquad/settings/profile" alt="Banner" width="200px" height="100">
   </td>
 </tr>
 
