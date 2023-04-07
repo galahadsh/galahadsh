@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src ="assets/fer.jpeg" style="max-width: 70%;">
+<img src ="assets/fer.jpeg" style="max-width: 50%; max-height:600px;">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <table><tr>
   <td>
     <h3> Wolfcode Page 📱  </h3>
-    <p>This is a page of programing team of Instituto Tecnológico de Merida</p>
+    <p>This is a page of independent team of Instituto Tecnológico de Merida</p>
     <a href="https://wolfcodesquad.github.io/WolfCode_page/">:arrow_forward: See more</a>
   </td>
   <td>
