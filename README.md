@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src ="assets/fer.jpeg" style="max-width: 10%;">
+<img src ="assets/fer.jpeg" style="max-width: 200px;">
 </p>
 
 <p align="center">
