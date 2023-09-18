@@ -1,5 +1,5 @@
 <!--
-**gallardowolfcode/gallardowolfcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src ="assets/fer.jpeg" style="max-width: 50%; max-height:600px;">
+<img src ="assets/fer.jpeg" style="max-width: 50%;">
 </p>
 
 <p align="center">
