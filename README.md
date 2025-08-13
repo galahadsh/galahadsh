@@ -2,12 +2,16 @@
 This is a ✨ _special_ ✨ repository because its README.md appears on your GitHub profile.
 -->
 
-#### Hello, I'm Fernando! 👋
+#### Hello, I'm M4V3R1CK! 👋
 
-```zsh
-> neofetch
+```plaintext
+   _   ___ __ _   _ ____ __   _ _____  _ __ 
+  /  |/  / _ | | / / __/ _ \/ // ___// //_/
+ / /|_/ / __ | |/ / _// , _/ // /_ /  ,<   
+/_/  /_/_/ |_|___/___/_/|_/_/\___//_/|_|ft.Odr4ll4G
 ```
-<img align="left" src="assets/fer.jpeg" alt="Fernando" width="280" height="280" style="border-radius: 50%; margin-right: 15px;" /> 
+
+<img align="left" src="assets/hk3.jpg" alt="Fernando" width="350" height="350" style="border-radius: 50%; margin-right: 15px;" /> 
 
 ```zsh
 Fernando Gallardo 🧑🏻‍💻 
@@ -21,7 +25,6 @@ Languages: Python, JavaScript, Java, C++
 Learning: Cybersecurity, Docker, AWS
 Hobbies: Soccer, Video Games, Reading
 LinkedIn: linkedin.com/in/gallardomtz/
-Facebook: facebook.com/FEARGALLARDO/
 ```
 
 ## ⚙️ GitHub Analytics :
@@ -72,7 +75,5 @@ Learning advanced cloud security and infrastructure hardening techniques
 
 📫 How to reach me
 LinkedIn: gallardomtz
-
-Facebook: FEARGALLARDO
 
 Thanks for visiting my profile! Let’s connect and collaborate on building secure and resilient systems. 🔐
