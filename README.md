@@ -11,7 +11,7 @@ This is a ✨ _special_ ✨ repository because its README.md appears on your Git
 /_/  /_/_/ |_|___/___/_/|_/_/\___//_/|_|ft.Odr4ll4G
 ```
 
-<img align="left" src="assets/ghost.jpg" alt="Fernando" width="350" height="350" style="border-radius: 50%; margin-right: 15px;" /> 
+<img align="left" src="assets/ghost.jpeg" alt="Fernando" width="350" height="350" style="border-radius: 50%; margin-right: 15px;" /> 
 
 ```zsh
 Fernando Gallardo 🧑🏻‍💻 
