@@ -27,6 +27,8 @@ Hobbies: Soccer, Video Games, Reading, bash
 LinkedIn: linkedin.com/in/gallardomtz/
 ```
 
+
+
 ## ⚙️ GitHub Analytics :
 
 <!--- stats (start) -->
