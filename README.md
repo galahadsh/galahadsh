@@ -19,11 +19,11 @@ Fernando Gallardo 🧑🏻‍💻
 OS: Windows 10 x64
 Shell: PowerShell
 Pronouns: he/him
-Location: Mérida, MX
+Location: XXX
 Frameworks: Django, Vue.js, Nuxt.js
 Languages: Python, JavaScript, Java, C++
 Learning: Cybersecurity, Docker, AWS
-Hobbies: Soccer, Video Games, Reading
+Hobbies: Soccer, Video Games, Reading, bash
 LinkedIn: linkedin.com/in/gallardomtz/
 ```
 
