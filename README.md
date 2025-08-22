@@ -35,10 +35,10 @@ LinkedIn: linkedin.com/in/gallardomtz/
   <td width="50%" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gallardowolfcode&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
     <br /><br />
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gallardowolfcode&theme=dark&hide_border=false" />
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=gallardowolfcode&theme=dark&hide_border=false" />
   </td>
   <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gallardowolfcode&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallardowolfcode&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
   </td>
 </tr>
 </table>
