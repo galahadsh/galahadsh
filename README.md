@@ -14,7 +14,7 @@ This is a ✨ _special_ ✨ repository because its README.md appears on your Git
 <img align="left" src="assets/ghost.jpeg" alt="Fernando" width="300" height="300" style="border-radius: 50%; margin-right: 15px;" /> 
 
 ```zsh
-Fernando Gallardo 🧑🏻‍💻 
+Gallardo 🧑🏻‍💻 
 ----------------------
 OS: Windows 10 x64
 Shell: PowerShell
