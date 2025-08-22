@@ -33,7 +33,7 @@ LinkedIn: linkedin.com/in/gallardomtz/
 <table align="center">
 <tr border="none">
   <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gallardowolfcode&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=galahadsh&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
     <br /><br />
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=galahadsh&theme=dark&hide_border=false" />
   </td>
