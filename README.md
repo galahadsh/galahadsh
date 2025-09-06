@@ -16,14 +16,14 @@ This is a ✨ _special_ ✨ repository because its README.md appears on your Git
 ```zsh
 Gallardo 🧑🏻‍💻 
 ----------------------
-OS: Windows 10 x64
+OS: Parrot Linux
 Shell: PowerShell
 Pronouns: he/him
 Location: XXX
 Frameworks: Django, Vue.js, Nuxt.js
-Languages: Python, JavaScript, Java, C++
+Languages: Python, JavaScript, PowerShell
 Learning: Cybersecurity, Docker, AWS
-Hobbies: Soccer, Video Games, Reading, bash
+Hobbies: Video Games, Reading, bash
 LinkedIn: linkedin.com/in/gallardomtz/
 ```
 
